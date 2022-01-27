@@ -1,0 +1,5 @@
+1) Find the path to my downloads folder
+2) list all the files in the downloads folder
+3) Group all the files listed by extensions
+5) Check if folder name exists, if not create the folder
+6) Move all the files into respective created folders based on their extensions
